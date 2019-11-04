@@ -27,7 +27,11 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
 
-    //ImageSlider
+    //ImageSlider 2nd Activity
     implementation 'com.github.therealshabi:AutoImageFlipper:v1.4.1'
+
+    //ImageSlider 3rd Activity
+    implementation 'com.synnapps:carouselview:0.1.5'
+
 
 }
